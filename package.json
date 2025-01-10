@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite --host",
     "build": "tsc -b && vite build",
+    "homepage":"https://wsb777.github.io/formik/",
     "lint": "eslint .",
     "preview": "vite preview"
   },
@@ -17,6 +18,7 @@
     "@mui/material": "^6.3.1",
     "@mui/styled-engine-sc": "^6.3.1",
     "@toolpad/core": "^0.11.0",
+    "gh-pages": "^6.3.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "styled-components": "^6.1.14"
